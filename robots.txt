@@ -1,0 +1,3 @@
+User-agent: * 
+Allow: /
+Sitemap: http://basicrobotics.net/sitemap.xml
